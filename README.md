@@ -1,7 +1,7 @@
-#Cat Clicker
+# Cat Clicker
 Amber Fuller 03-23-2018
 
-##Table of Contents
+## Table of Contents
 * [Synopsis](#Synopsis)
 * [Installation](#Installation)
 * [Contributing](#Contributing)
