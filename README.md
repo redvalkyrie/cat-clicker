@@ -1,4 +1,4 @@
-#Cat Clicker
+##Cat Clicker
 Amber Fuller 3-23.2018
 
 ##Table of Contents
