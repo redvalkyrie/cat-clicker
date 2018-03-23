@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: #e66000;
+    font-size: 3rem;
+}
+
+.catPicture {
+	padding-top: 30px;
+	cursor: pointer;
+}
+.clickCount {
+    font-size: 2rem;
+}
+footer {
+    position: bottom;
+    margin-top: 20px;
+    height: 20%;
+    text-align: left;
+    font-size: 1rem;
+}
