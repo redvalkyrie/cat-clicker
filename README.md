@@ -1,5 +1,5 @@
-##Cat Clicker
-Amber Fuller 3-23.2018
+#Cat Clicker
+Amber Fuller 03-23-2018
 
 ##Table of Contents
 * [Synopsis](#Synopsis)
@@ -12,6 +12,8 @@ conditions for winning the game.
 
 ## Installation
 For offline gameplay, all files must be cloned or downloaded from:
+https://github.com/redvalkyrie/cat-clicker
+
 Check for the following:
 1. index.innerHTML
 2. css folder
@@ -20,6 +22,8 @@ Check for the following:
 	- app.js
 3. img folder
 	- 625069434_db86b67df8_z.jpg
+4. sounds folder
+	- Kitten Meow-SoundBible.com-1295572573.mp3
 
 In order to start the game offline, the user must run index.html.  The file will then open, and the game will run in a browser window.
 
