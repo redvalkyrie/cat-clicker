@@ -1,5 +1,5 @@
 # Cat Clicker
-Amber Fuller 03-23-2018
+03-23-2018
 
 ## Table of Contents
 * [Synopsis](#Synopsis)
